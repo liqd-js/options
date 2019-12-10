@@ -1,10 +1,11 @@
 {
   "name": "@liqd-js/options",
   "description": "Options validation library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/options.js",
+  "homepage" : "https://liqd-js.com/lib/options",
   "files": [
     "lib/"
   ],
